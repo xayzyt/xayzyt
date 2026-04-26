@@ -46,16 +46,9 @@
 - [C-Language-Practice](https://github.com/xayzyt/C-Language-Practice)：C 语言基础与嵌入式语法练习。
 - [Python-Practice](https://github.com/xayzyt/Python-Practice)：Python 脚本与辅助工具练习。
 
-## 教育经历
 
-**邵阳学院 | 通信工程 | 本科**  
-2023.09 - 2027.06
-
-主修课程：C 语言程序设计、数据结构、操作系统、单片机原理及应用、嵌入式系统开发、数字电子技术。
-
-在校实践：加入校众创空间实验室，学习嵌入式系统开发与软硬件协同设计。
 
 ## 联系方式
 
-- GitHub: https://github.com/xayzyt
+- Phone: 15234711471
 - Email: 15234711471@163.com
