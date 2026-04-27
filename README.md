@@ -6,7 +6,6 @@
 关注嵌入式系统、物联网终端通信、RTOS 多任务架构与软硬件联合调试。
 
 [![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)](#)
-[![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)](#)
 [![ESP--IDF](https://img.shields.io/badge/ESP--IDF-E7352C?style=flat-square&logo=espressif&logoColor=white)](#)
 [![FreeRTOS](https://img.shields.io/badge/FreeRTOS-173B6C?style=flat-square)](#)
 [![STM32](https://img.shields.io/badge/STM32-03234B?style=flat-square&logo=stmicroelectronics&logoColor=white)](#)
@@ -20,7 +19,7 @@
 
 我正在系统学习并实践嵌入式软件开发，主要围绕 **ESP32 / STM32 / CH32V** 平台做项目，熟悉从底层外设驱动、RTOS 任务拆分，到联网通信、屏幕 UI 和整机联调的完整开发流程。
 
-- 能使用 **C/C++** 完成嵌入式功能开发、模块封装、调试验证和问题定位。
+- 能使用 **C** 完成嵌入式功能开发、模块封装、调试验证和问题定位。
 - 熟悉 **FreeRTOS** 任务、队列、信号量、互斥锁、软件定时器和事件组等常用机制。
 - 做过 **Wi-Fi、MQTT、HTTP、SNTP、Web 配网、HTTP SSE** 等联网与数据交互功能。
 - 有 **LVGL、ST7789、Intel 8080 并口、DMA 刷屏** 等嵌入式图形界面开发经验。
