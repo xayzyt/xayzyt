@@ -13,7 +13,8 @@
 
 | 方向 | 能力与项目证据 |
 | --- | --- |
-| 嵌入式 C / RTOS | 在 STM32上整理 FreeRTOS 系列实验，覆盖任务、队列、信号量、事件组、任务通知、软件定时器与内存管理 |
+| 嵌入式 C / RTOS | 在 STM32 上整理 FreeRTOS 系列实验，覆盖任务、队列、信号量、事件组、任务通知、软件定时器与内存管理 |
+| STM32 / 人机交互 | 开发智能台灯控制终端，完成 OLED 中文菜单、学习倒计时、多传感器采集、PWM 灯效和串口控制 |
 | ESP32 / 图形界面 | 基于 ESP-IDF 和 LVGL 开发桌面监控终端，完成 8080 并口 LCD、FT6336U 触摸和 XL9555 IO 扩展适配 |
 | 网络通信 | 实现 Wi-Fi AP 配网、HTTP/SSE 数据获取、SNTP 校时、MQTT 设备命令与状态上报 |
 | 驱动与联调 | 使用 GPIO、I2C、UART、ADC、PWM、Timer、DMA 等外设，进行屏幕、摄像头、传感器和执行机构联调 |
@@ -25,10 +26,11 @@
 | --- | --- | --- |
 | [ESP32-S3 AIDA64 Monitor](https://github.com/xayzyt/ESP32-S3-AIDA64-Monitor) | 桌面硬件监控终端：显示 PC 状态、天气与网络时间，支持触摸交互和 Web 配网 | ESP32-S3、ESP-IDF、FreeRTOS、LVGL、HTTP/SSE、SNTP |
 | [SkyAnchor Embedded Competition](https://github.com/xayzyt/Embedded_competition) | 多端协同配送演示系统：摄像头预览、AprilTag、设备控制、MQTT、小程序和服务端 | ESP32-P4、CH32、LVGL、MQTT、FastAPI、微信小程序 |
-| [STM32 Smart Car](https://github.com/xayzyt/STM32-Smart-Car) | 基于参考套件二次开发的智能小车，包含循迹、避障、跟随和蓝牙遥控 | STM32F10x、C、PWM、UART、ADC、I2C |
+| [STM32 Smart Desk Lamp](https://github.com/xayzyt/Smart_Desk_Lamp_Terminal) | 智能学习台灯终端：OLED 菜单、学习倒计时、环境监测、灯效控制和语音提醒 | STM32F10x、OLED、BH1750、DHT11、PWM、UART |
 
 更多实践：
 [FreeRTOS 系列实验](https://github.com/xayzyt/FreeRTOS_Project) ·
+[STM32 智能小车](https://github.com/xayzyt/STM32-Smart-Car) ·
 [PID 控制实验](https://github.com/xayzyt/PID_INVERTED_PENDULUM)
 
 ## 教育与求职
