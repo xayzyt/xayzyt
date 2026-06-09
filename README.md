@@ -24,8 +24,8 @@
 
 | 项目 | 说明 | 技术栈 |
 | --- | --- | --- |
-| [ESP32-S3 AIDA64 Monitor](https://github.com/xayzyt/ESP32-S3-AIDA64-Monitor) | 桌面硬件监控终端：显示 PC 状态、天气与网络时间，支持触摸交互和 Web 配网 | ESP32-S3、ESP-IDF、FreeRTOS、LVGL、HTTP/SSE、SNTP |
 | [SkyAnchor Embedded Competition](https://github.com/xayzyt/Embedded_competition) | 多端协同配送演示系统：摄像头预览、AprilTag、设备控制、MQTT、小程序和服务端 | ESP32-P4、CH32、LVGL、MQTT、FastAPI、微信小程序 |
+| [ESP32-S3 AIDA64 Monitor](https://github.com/xayzyt/ESP32-S3-AIDA64-Monitor) | 桌面硬件监控终端：显示 PC 状态、天气与网络时间，支持触摸交互和 Web 配网 | ESP32-S3、ESP-IDF、FreeRTOS、LVGL、HTTP/SSE、SNTP |
 | [STM32 Smart Desk Lamp](https://github.com/xayzyt/Smart_Desk_Lamp_Terminal) | 智能学习台灯终端：OLED 菜单、学习倒计时、环境监测、灯效控制和语音提醒 | STM32F10x、OLED、BH1750、DHT11、PWM、UART |
 
 更多实践：
