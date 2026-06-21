@@ -21,7 +21,7 @@
 | 系统设计 | 在竞赛项目中实践 ESP32-P4、CH32、微信小程序与云端服务协同，以及状态机和二进制通信协议设计 |
 
 ## 精选项目
-
+  
 | 项目 | 说明 | 技术栈 |
 | --- | --- | --- |
 | [SkyAnchor Embedded Competition](https://github.com/xayzyt/Embedded_competition) | 多端协同配送演示系统：摄像头预览、AprilTag、设备控制、MQTT、小程序和服务端 | ESP32-P4、CH32、LVGL、MQTT、FastAPI、微信小程序 |
