@@ -33,7 +33,7 @@
 [STM32 智能小车](https://github.com/xayzyt/STM32-Smart-Car) ·
 [PID 控制实验](https://github.com/xayzyt/PID_INVERTED_PENDULUM)
 
-## 教育与求职
+## 教育与求职 
 
 - 通信工程本科在读
 - 目标岗位：嵌入式软件实习
