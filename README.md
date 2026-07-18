@@ -1,6 +1,6 @@
 # 张云腾
 
-**通信工程本科在读｜求职方向：嵌入式软件实习**  
+**通信工程本科在读｜求职方向：嵌入式软件实习**   
 
 [![Email](https://img.shields.io/badge/Email-15234711471%40163.com-0A66C2?style=flat-square)](mailto:15234711471@163.com)
 [![GitHub](https://img.shields.io/badge/GitHub-xayzyt-181717?style=flat-square&logo=github)](https://github.com/xayzyt)
