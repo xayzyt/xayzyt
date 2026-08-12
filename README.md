@@ -2,7 +2,7 @@
 
 **通信工程本科在读｜求职方向：嵌入式软件实习**                
  
-[![Email](https://img.shields.io/badge/Email-15234711471%40163.com-0A66C2?style=flat-square)](mailto:15234711471@163.com)  
+[![Email](https://img.shields.io/badge/Email-15234711471%40163.com-0A66C2?style=flat-square)](mailto:15234711471@163.com)   
 [![GitHub](https://img.shields.io/badge/GitHub-xayzyt-181717?style=flat-square&logo=github)](https://github.com/xayzyt)    
 
 我主要使用 C 进行嵌入式开发，围绕 ESP32、STM32 和 CH32 完成过图形界面、网络通信、外设驱动与多控制器协同项目。目前重点学习 FreeRTOS、设备状态机、摄像头数据链路，以及软硬件联调和问题定位。
