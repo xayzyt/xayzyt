@@ -24,7 +24,7 @@
 
 <table>
   <tr>
-    <td width="50%"><strong>🎓 教育背景</strong><br>2023.09 – 2027.06 · 邵阳学院 · 通信工程本科</td>
+    <td width="50%"><strong>🎓 教育背景</strong><br>2023.09 – 2027.06 · 邵阳学院 · 通信工程本科</td> 
     <td width="50%"><strong>🎯 求职方向</strong><br>嵌入式软件实习 · MCU 固件 · 驱动与设备通信</td>
   </tr>
   <tr>
