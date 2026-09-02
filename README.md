@@ -4,7 +4,7 @@
        
 ### 2027 届毕业生 · 通信工程本科 · 嵌入式软件实习生方向       
            
-**C / ESP32 / STM32 / CH32 / FreeRTOS / LVGL**    
+**C / ESP32 / STM32 / CH32 / FreeRTOS / LVGL**        
 
 [![Email](https://img.shields.io/badge/Email-15234711471%40163.com-0A66C2?style=flat-square)](mailto:15234711471@163.com)
 [![GitHub](https://img.shields.io/badge/GitHub-xayzyt-181717?style=flat-square&logo=github)](https://github.com/xayzyt)
