@@ -12,7 +12,7 @@
 
 </div>
 
-<div align="center">
+<div align="center">    
 
 > 用 C 把传感器、屏幕、通信协议和执行机构组织成一个能稳定运行的嵌入式系统。
    
