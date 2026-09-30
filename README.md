@@ -26,7 +26,7 @@
   <tr>
     <td width="50%"><strong>🎓 教育背景</strong><br>2023.09 – 2027.06 · 邵阳学院 · 通信工程本科</td> 
     <td width="50%"><strong>🎯 求职方向</strong><br>嵌入式软件实习 · MCU 固件 · 驱动与设备通信</td>
-  </tr>
+  </tr> 
   <tr>
     <td><strong>🏆 荣誉</strong><br>湖南省大学生创新创业训练计划省级立项项目负责人 · 蓝桥杯嵌入式国赛三等奖 · 嵌入式芯片与系统设计竞赛中部赛区二等奖</td>
     <td><strong>📚 其他</strong><br>CET-4 · 校级奖学金 · 校众创空间实验室实践</td>
